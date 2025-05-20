@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Fazendo bugs desde 2025<br>📚 Programador aprendiz<br>🎯 Objetivos: Nenhum por enquanto<br>🎲 Fun fact:</p>
+<p align="left">✨ Fazendo bugs desde 2025<br>📚 Programador aprendiz<br>🎯 Objetivos: Nenhum por enquanto</p>
 
 ###
 
